@@ -1,7 +1,6 @@
 # ixd102-journal
 
-###Hello there 
+#Hello there 
 
-
->Week One
+##Week One
 >Point - Create a series of desktop backgrounds using point.
