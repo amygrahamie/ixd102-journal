@@ -24,11 +24,12 @@ Project 01
 ----------
 >>##[Type Poster] (https://www.flickr.com/photos/136091978@N04/albums/72157660198978605/ "Type Poster").
 >*Task: Your first project for this module is to create an A3 Type Specimen Poster based on one of the fonts.
-
-*Jenson
-*Bembo
-*Garamond
-*Caslon
-*Baskerville
-*Bodoni
-*Akzindenz-Grotesk*
+<ul>
+<li>Jenson</li>
+<li>Bembo</li>
+<li>Garamond</li>
+<li>Caslon</li>
+<li>Baskerville</li>
+<li>Bodoni</li>
+<li>Akzindenz-Grotesk</li>
+</ul>*
