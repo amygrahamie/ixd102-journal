@@ -19,3 +19,16 @@ Week Three
 --------
 >##[Plane] (https://www.flickr.com/photos/136091978@N04/albums/72157657867739623/ "Plane").
 >*Task: 1 Plane, 2 Planes and 9 Planes. Then finally we had create a series of desktop backgrounds using plane so I continued on from my designs from week 2*
+
+Project 01
+----------
+>>##[Type Poster] (https://www.flickr.com/photos/136091978@N04/albums/72157660198978605/ "Type Poster").
+>*Task: Your first project for this module is to create an A3 Type Specimen Poster based on one of the fonts.
+
+*Jenson
+*Bembo
+*Garamond
+*Caslon
+*Baskerville
+*Bodoni
+*Akzindenz-Grotesk*
