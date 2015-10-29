@@ -2,8 +2,10 @@
 
 Hello there 
 ============
-www.ixdbelfast.org
-http://amygrahamie.github.io/hello-world-page/
+<ul>
+<li>www.ixdbelfast.org</li>
+<li>http://amygrahamie.github.io/hello-world-page/</li>
+</ul>
 
 
 Week One
