@@ -15,3 +15,4 @@ Week Two
 Week Three
 --------
 >##[Plane] (https://www.flickr.com/photos/136091978@N04/albums/72157657867739623/ "Plane").
+>*Task: Create a series of desktop backgrounds using plane.*
