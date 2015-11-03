@@ -55,4 +55,5 @@ Week Seven-Twelve Screen
 ------------------------
 >###Using the story of John Baskerville as a starting point the screen-based exercises will ground us with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
 
->*Week Six* – Taking the raw John Baskerville text as our starting point we ceated a simple HTML5 page on our GitHub page.
+>####Week Six
+*Taking the raw John Baskerville text as our starting point we ceated a simple HTML5 page on our GitHub page.*
