@@ -41,6 +41,7 @@ Project 01
 
 Week Four
 ---------
->##*Type* – We had to use 1 'M' in 20  different ways, we then had to choose two letters and join them in six ways and then complete a kerning exercise. 
+>##*Type* 
+We had to use 1 'M' in 20  different ways, we then had to choose two letters and join them in six ways and then complete a kerning exercise. 
 >In addition to these, this weeks task was to create a [Movie Poster] (https://www.flickr.com/photos/136091978@N04/22428232071/in/album-72157660774112895/ "Movie Poster") in the style of Josef Müller Brockmann. 
 
