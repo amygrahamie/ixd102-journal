@@ -23,6 +23,8 @@ Week Three
 >##[Plane] (https://www.flickr.com/photos/136091978@N04/albums/72157657867739623/ "Plane").
 >*Task: 1 Plane, 2 Planes and 9 Planes. Then finally we had create a series of desktop backgrounds using plane so I continued on from my designs from week 2*
 
+>*The final exercise for this week was to create a modular typeface built from planes. Fontstruct is an excellent tool to help you do this but tricky sticking to their shapes and grid layout. Alternatively I found it useful to experiment with Sketch and Illustrator.*
+
 Project 01
 ----------
 >>##[Type Poster] (https://www.flickr.com/photos/136091978@N04/albums/72157660198978605/ "Type Poster").
@@ -37,4 +39,8 @@ Project 01
 <li>Akzindenz-Grotesk</li>
 </ul>*
 
+Week Four
+---------
+>*Type* – We had to use 1 'M' in 20  different ways, we then had to choose two letters and join them in six ways and then complete a kerning exercise. 
+>In addition to these, this weeks task was to create a [Movie Poster] (https://www.flickr.com/photos/136091978@N04/22428232071/in/album-72157660774112895/ "Movie Poster") in the style of Josef Müller Brockmann. 
 
