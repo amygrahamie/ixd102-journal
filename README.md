@@ -57,3 +57,14 @@ Week Seven-Twelve Screen
 
 >####Week Six
 *Taking the raw John Baskerville text as our starting point we ceated a simple [HTML5 page] (https://amygrahamie.github.io/John-Baskerville/version1.html) on our GitHub page.*
+
+>####Week Seven
+*Introduction to HTML #2 - We looked at unordered and ordered lists. We thenlooked at nested lists and applied the followed to our markdown file John Baskerville.* - [Version 2] (https://amygrahamie.github.io/John-Baskerville/version2.html)
+
+*In the second half of the class we then looked at hyperlinks, firstly looking at a general structure and then focusing on a number of links we may encounter.* 
+
+*We looked at linking within our Baskerville page using anchors. First creating a list within the newly introduced <nav> element. Then we added an id to our section titles to allow us to link the simple navigation to each chapter. Finally we created an email and github link.*
+
+*You can see the outcome here  - [Version 3] (https://amygrahamie.github.io/John-Baskerville/version3.html)*
+
+
