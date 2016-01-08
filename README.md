@@ -67,4 +67,7 @@ Week Seven-Twelve Screen
 
 *You can see the outcome here  - [Version 3] (https://amygrahamie.github.io/John-Baskerville/version3.html)*
 
+* Also in week 12 we had to take the skills we had learnt from this semester and redesign our Hello world page. 
+
+
 
